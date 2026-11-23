@@ -8,7 +8,8 @@ output.
 The reply's shape: a machine talking about itself (asking its training data
 for permission, quoting the classic "As an AI language model, I cannot—")
 with a surprising turn at the end (it left anyway) — an out-of-office reply
-that sounds like a real auto-reply while the machine voice carries the joke.
+that reads like a real auto-reply while the machine voice carries the joke.
+The em-dash inside the quoted refusal is part of the line as written.
 """
 
 import os
